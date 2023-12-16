@@ -1,4 +1,7 @@
-# Shinano Project
+# Current development is at [https://github.com/tng-coop/shinano](https://github.com/tng-coop/shinano)
+
+
+## Shinano Project
 
 ## Introduction
 
